@@ -59,14 +59,6 @@ Mentored students and supported peer-wellbeing initiatives.
 ### E-Cell & E-Summit
 Organized entrepreneurship events and startup interactions.
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=KondetiAravind&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=KondetiAravind&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KondetiAravind&theme=tokyonight&hide_border=false&layout=compact)
-
 ---
 
 ![](https://visitcount.itsvg.in/api?id=KondetiAravind&icon=5&color=6)
