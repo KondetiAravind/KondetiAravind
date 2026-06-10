@@ -44,13 +44,13 @@
 
 🏛️ Indian Institute of Technology Bhubaneswar
 
-Integrated B.Tech + M.Tech (Dual Degree)
+Integrated B.Tech + M.Tech (Dual Degree) 2022-2027
 
 Computer Science and Engineering
 
 # 🏅 Leadership & Responsibilities
 
-### Chief Coordinator — Pravaah
+### Chief Coordinator — Pravaah'26
 Led planning, budgeting and execution of IIT Bhubaneswar's annual cultural and technopreneurship fest.
 
 ### Counselling Service Team
