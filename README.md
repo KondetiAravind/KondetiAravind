@@ -4,7 +4,6 @@
 🔭 Currently working on **Computer Vision and Multimodal AI Systems** for unstructured driving environments.<br>
 🌱 Exploring **Artificial Intelligence, Deep Learning, NLP, Computer Vision, Data Analytics and Systems Programming**.<br>
 💡 Interested in solving real-world problems through intelligent systems, software engineering and data-driven decision making.<br>
-🚀 Currently working as an **Operations Analyst Intern at NCML Nilachal Carbo Metalicks Pvt. Ltd.**<br>
 📖 Motto: **Still Exploring, Still Growing.**
 
 <img alt="AI Engineer" align="right" width="120px" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>
@@ -41,30 +40,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-# 🚀 Featured Projects
-
-### 🚗 Driving Assistant for Unstructured Environments
-- Curated 950+ annotated driving clips using YOLOv9
-- Generated captions, summaries and temporal dataset artifacts
-- Working on multimodal fusion of vision, motion and textual cues
-- Developing explainable anomaly detection systems
-
-### 🎬 Sentiment Analysis on Movie Reviews using RoBERTa
-- Fine-tuned RoBERTa on 156K+ IMDb reviews
-- Achieved 69.5% Accuracy and 0.62 Macro F1
-- Built end-to-end NLP pipeline using PyTorch
-- Deployed using Streamlit
-
-### 📊 E-Commerce Sales Analytics Dashboard
-- Built interactive Power BI dashboards
-- KPI tracking, drilldowns and category insights
-- Sales trend and customer behavior analysis
-
-### ⚙️ RISC-V MiniCPU Engine
-- Built a lightweight RISC-V CPU simulator
-- Implemented assembler, memory and register modules
-- Simulated arithmetic, memory and control-flow instructions
-
 # 🎓 Education
 
 🏛️ Indian Institute of Technology Bhubaneswar
@@ -91,19 +66,6 @@ Organized entrepreneurship events and startup interactions.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KondetiAravind&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KondetiAravind&theme=tokyonight&hide_border=false&layout=compact)
-
-### ✍️ Personal Motto
-
-> Still Exploring, Still Growing.
-
-### 🔬 Research Interests
-
-- Computer Vision
-- Multimodal Learning
-- Deep Learning
-- NLP
-- Explainable AI
-- Data Analytics
 
 ---
 
