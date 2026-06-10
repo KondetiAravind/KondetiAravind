@@ -40,15 +40,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-# 🎓 Education
-
-🏛️ Indian Institute of Technology Bhubaneswar
-
-Integrated B.Tech + M.Tech (Dual Degree) 2022-2027
-
-Computer Science and Engineering
-
-# 🏅 Leadership & Responsibilities
+## 🏅 Leadership & Responsibilities
 
 ### Chief Coordinator — Pravaah'26
 Led planning, budgeting and execution of IIT Bhubaneswar's annual cultural and technopreneurship fest.
