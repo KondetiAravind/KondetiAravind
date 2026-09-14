@@ -8,6 +8,8 @@
 
 <img alt="AI Engineer" align="right" width="120px" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>
 
+### [Live - Portfolio](https://aravind-portfolio-tau.vercel.app/)
+---
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-kondeti/)
